@@ -1,16 +1,6 @@
 # Estacionamento-do-seu-Z-
 Projeto final da disciplina de Introdução à Programação.
 
-#############################################################
-#                                                           #
-#                            UNIVERSIDADE FEDERAL DE GOIÁS                                 #
-#                                  INSTITUTO DE INFORMÁTICA                                        #
-#                                                                                                                      #
-#                   DISCENTE: DOMINGOS ALVES RAMOS NETO                             #
-#                                    MATRÍCULA: 202003558                                              #
-#                                                                                                                      #
-#############################################################
-
 Nome do projeto: ESTACIONAMENTO DO SEU ZÉ
 
 Contexto: Seu Zé é residente da cidade de Imperatriz - MA. Ele é um pequeno em-
